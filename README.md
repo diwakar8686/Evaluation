@@ -71,3 +71,5 @@ pu<blic class HomeKitchenPage {
 }
 
 ![image](https://github.com/user-attachments/assets/cb459aa3-937f-4a10-b3eb-40599d69c4ab)
+![image](https://github.com/user-attachments/assets/c3f32ba0-347e-4eda-a655-166842724d42)
+
